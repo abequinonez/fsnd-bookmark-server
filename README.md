@@ -1,6 +1,6 @@
 # Udacity Bookmark Server
 
-A simple link shortener created while working through Udacity's HTTP & Web Servers course (as part of the Full Stack Web Developer Nanodegree). With no persistent storage, links are saved to a Python dictionary and wiil therefore disappear as soon as the server goes down.
+A simple link shortener created while working through Udacity's HTTP & Web Servers course (as part of the Full Stack Web Developer Nanodegree). With no persistent storage, links are saved to a Python dictionary and will therefore disappear as soon as the server goes down.
 
 ## Instructions
 
